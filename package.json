@@ -1,0 +1,17 @@
+{
+    "name": "abbadanmusa",
+    "version": "1.0.0",
+    "description": "",
+    "main": "webpack.config.js",
+    "scripts": {
+        "start": "npm run assets",
+        "assets": "webpack"
+    },
+    "author": "abba danmusa",
+    "license": "ISC",
+    "dependencies": {
+        "babel-loader": "^9.1.2",
+        "webpack": "^5.75.0",
+        "webpack-cli": "^5.0.1"
+    }
+}
